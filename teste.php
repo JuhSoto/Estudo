@@ -1,3 +1,3 @@
-<?php phpinfo(); ?>
-<?="teste";?>
+<?php php phpinfo()?>
+Olá!
 
